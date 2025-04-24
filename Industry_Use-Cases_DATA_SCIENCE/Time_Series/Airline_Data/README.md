@@ -58,9 +58,6 @@ Python 3.8+
 
 ## Libraries:
 
-bash
-Copy
-Edit
 pandas  
 numpy  
 matplotlib  
