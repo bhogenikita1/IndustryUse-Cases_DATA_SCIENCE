@@ -39,6 +39,7 @@ This project analyzes and forecasts solar power generation using time series tec
 ## 🛠️ Requirements
 
 - Python 3.8+
+  
 - Libraries:
   
   pandas  
